@@ -1,7 +1,3 @@
-# Olá, Eu me chamo kaylane!
-📚Estudante de JavaScript e AWS re/Start
-
-
 <div> 
   <a href="https://youtu.be/cmxpxs4nqdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/kay_kymberly?igsh=OG8ydjRoMmhtODJ0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +18,7 @@
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Veiga de Almeida. Em busca de uma oportunidade.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
   
 #
 
@@ -33,6 +29,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 
+# Olá, Eu me chamo kaylane!
+📚Estudante de JavaScript e AWS re/Start
 
 
   <div style="display: inline_block"><br>
@@ -40,11 +38,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div> 
-
-
-
-
-
 
 
 
