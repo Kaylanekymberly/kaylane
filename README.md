@@ -3,6 +3,7 @@
 # Olá, Eu me chamo kaylane!
 📚Estudante de JavaScript e AWS re/Start
 
+<h3 align="left">Connect with me!</h3>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
