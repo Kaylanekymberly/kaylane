@@ -12,14 +12,15 @@
 
 
  <div align=center>
-  <p>My design softwares:</p>
+
+</div>
+
+ <p>My design softwares:</p>
   <a href="https://github.com/Kaylanekymberly"><img align="center" alt="ILLUSTRATOR-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>   
   <a href="https://github.com/Kaylanekymberly"><img align="center" alt="PHOTOSHOP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>   
   <a href="https://github.com/Kaylanekymberly"><img align="center" alt="AFTEREF-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"></a>   
   <a href="https://github.com/Kaylanekymberly"><img align="center" alt="CANVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>   
  </div>
-
-
 
 <h3 align="left">Connect with me!</h3>
 <div> 
@@ -30,9 +31,6 @@
   <a href="https://www.linkedin.com/in/kaylane-kimberly-09a6ba25b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-</div>
-
-##
   
 <div align=center>
   
