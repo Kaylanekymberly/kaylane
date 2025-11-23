@@ -1,5 +1,6 @@
+
 Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
-📚Estudante de JavaScript e AWS re/Start
+ 📚Estudante de JavaScript e AWS re/Start
 
   <div style="display: inline_block"><br>
   <img align="center" alt="kay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
