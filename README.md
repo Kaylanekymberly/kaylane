@@ -3,12 +3,22 @@
 # Olá, Eu me chamo kaylane!
 📚Estudante de JavaScript e AWS re/Start
 
-
+    
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div> 
+  <img align="center" alt="kay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="kay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div> 
+
+
+ <div align=center>
+  <p>My design softwares:</p>
+  <a href="https://github.com/Kaylanekymberly"><img align="center" alt="ILLUSTRATOR-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>   
+  <a href="https://github.com/Kaylanekymberly"><img align="center" alt="PHOTOSHOP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>   
+  <a href="https://github.com/Kaylanekymberly"><img align="center" alt="AFTEREF-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"></a>   
+  <a href="https://github.com/Kaylanekymberly"><img align="center" alt="CANVA-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>   
+ </div>
+
 
 
 <h3 align="left">Connect with me!</h3>
