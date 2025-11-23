@@ -1,9 +1,6 @@
-
-
 # Olá, Eu me chamo kaylane!
 📚Estudante de JavaScript e AWS re/Start
 
-    
   <div style="display: inline_block"><br>
   <img align="center" alt="kay-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="kay-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
