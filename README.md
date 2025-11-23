@@ -1,4 +1,4 @@
-# Olá, Eu me chamo kaylane!
+Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 📚Estudante de JavaScript e AWS re/Start
 
   <div style="display: inline_block"><br>
