@@ -8,20 +8,12 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
   <img align="center" alt="kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </div> 
 
- <div align=center>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
 <p>My design softwares:</p>
 
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"></a>
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"></a>
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"></a>
 <a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
-
 
 
 <h3 align="left">Connect with me!</h3>
@@ -37,7 +29,6 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
