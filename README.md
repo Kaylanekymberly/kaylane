@@ -35,7 +35,6 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-  
 
 
 <div align="center">
