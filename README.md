@@ -11,6 +11,52 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 
  <div align=center>
 
+
+<div>
+  <p><strong>My design softwares:</strong></p>
+  
+  <a href="https://github.com/Kaylanekymberly" target="_blank" rel="noopener noreferrer">
+    <img 
+      align="center" 
+      alt="Illustrator logo" 
+      height="30" 
+      width="40" 
+      src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
+  </a>
+
+  <a href="https://github.com/Kaylanekymberly" target="_blank" rel="noopener noreferrer">
+    <img 
+      align="center" 
+      alt="Photoshop logo" 
+      height="30" 
+      width="40" 
+      src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  </a>
+
+  <a href="https://github.com/Kaylanekymberly" target="_blank" rel="noopener noreferrer">
+    <img 
+      align="center" 
+      alt="After Effects logo" 
+      height="30" 
+      width="40" 
+      src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg">
+  </a>
+
+  <a href="https://github.com/Kaylanekymberly" target="_blank" rel="noopener noreferrer">
+    <img 
+      align="center" 
+      alt="Canva logo" 
+      height="30" 
+      width="40" 
+      src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  </a>
+</div>
+
+
+
+
+
+
 </div>
  <p>My design softwares:</p>
   <a href="https://github.com/Kaylanekymberly"><img align="center" alt="ILLUSTRATOR-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>   
