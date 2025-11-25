@@ -12,12 +12,6 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
  <div align=center>
 
 
-<p>My design softwares:</p>
-<a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"></a>
-<a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"></a>
-<a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"></a>
-<a href="https://github.com/Kaylanekymberly"><img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></a>
-
 
 
 <p>My design softwares:</p>
