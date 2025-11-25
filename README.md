@@ -10,7 +10,9 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 
  <div align=center>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 <p>My design softwares:</p>
