@@ -26,9 +26,7 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 </div>
 
   
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kaylanekymberly/kaylane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -47,3 +45,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaylanekymberly/kaylane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
