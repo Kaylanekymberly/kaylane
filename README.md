@@ -22,8 +22,6 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 
 
 
-
-
 <h3 align="left">Connect with me!</h3>
 <div> 
   <a href="https://youtu.be/cmxpxs4nqdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -34,13 +32,10 @@ Olá, eu sou Kaylane Kimberly! | Hi there, i'm Kaylane Kymberly!
 </div>
 
   
-<div align=center>
-  
- <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/snake.svg" alt="Snake animation" />
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaylanekymberly/Kaylanekymberly/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
   
-## 
 
 
 <div align="center">
